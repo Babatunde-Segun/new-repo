@@ -1,0 +1,10 @@
+.main {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	padding: 2rem;
+	background-color: brown;
+	height: 100vh;
+	justify-content: space-around;
+	gap: 3rem;
+}
